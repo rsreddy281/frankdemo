@@ -17,7 +17,7 @@ namespace frankdemo.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Hello subin again!!";
+            ViewData["Message"] = "Hello subin/rsr again!!";
 
             return View();
         }
